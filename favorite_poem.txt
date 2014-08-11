@@ -1,4 +1,8 @@
 i am lost, but trying to keep up
 
 all my previous text dissapeared when i typed the previous line... hmmm.
+<<<<<<< HEAD
 anna write very nice poetry
+=======
+now amy is here
+>>>>>>> d5860bb5e14eaec5c4655491db3598f6df1ca59c
